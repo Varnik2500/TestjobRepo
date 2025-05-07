@@ -1,2 +1,1 @@
-This is a Readme file 
-for my first test job
+This Testjob repo was used to study Jenkins pipeline concepts 
